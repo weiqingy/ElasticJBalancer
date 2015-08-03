@@ -21,3 +21,5 @@ Run Master
 Run Client
 
 >java -jar 15618.jar client your_trace_file/request_rate (eg. java -jar 15618.jar client 100)
+
+The Repository is only used for study. All rights reserved.
