@@ -1,2 +1,2 @@
 # ElasticJBalancer
-An elastic load balancer implemented in Java
+An elastic load balancer implemented in Java.
